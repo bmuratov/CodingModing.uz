@@ -1,0 +1,4 @@
+---
+slug: yangiliklar
+name: Yangiliklar
+---
